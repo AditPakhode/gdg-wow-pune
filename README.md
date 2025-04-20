@@ -23,6 +23,8 @@ Stay tuned for our upcoming events! We regularly organize:
 - Networking Mixers
 - Hackathons
 
+**[Check our event calendar here](events/upcoming-events.md)** for a schedule of upcoming events.
+
 ## Get Involved
 
 There are many ways to get involved with GDG WOW Pune:
